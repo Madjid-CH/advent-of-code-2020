@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: quil/jogl-all-fat:2.4.0-RC">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/quil/jogl-all-fat/2.4.0-RC/jogl-all-fat-2.4.0-RC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
